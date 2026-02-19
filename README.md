@@ -1,3 +1,5 @@
+I used 2 way of join, SQL join if all data in mysql, 
+and i use map join when i need to get key in dimension by id in Mysql
 # .env
 The 2 datasource is at datasource folder
 Each has the relationship with the entities created,
